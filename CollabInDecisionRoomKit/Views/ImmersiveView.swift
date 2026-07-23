@@ -8,6 +8,7 @@ import ARKit
 import Combine
 import RealityKit
 import SwiftUI
+import GroupActivities
 
 @available(visionOS 2.0, *)
 /// The 3D RealityKit-based scene. The root entity of this scene is the app (aka AppLogic's) entity.
